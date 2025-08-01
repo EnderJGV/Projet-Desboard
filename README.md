@@ -1,4 +1,4 @@
-# 🎥 Projeto de Dashboard
+# 📈 Projeto de Dashboard
 
 ### Autor: Ender J. Guaina V.
 
