@@ -1,12 +1,12 @@
-# 🎥 Clone da Netflix
+# 🎥 Projeto de Dashboard
 
 ### Autor: Ender J. Guaina V.
 
 ![Preview do Projeto](./img/preview-dash.png)
 
-Um site responsivo de clone da Netflix com HTML, CSS e JavaScript. O projeto conta com uma interface moderna, animações fluidas e foco em acessibilidade para todos os dispositivos.
+Foi criado um dashboard para aprendizado de exercicios praticos utilizando habilidades de HTML, CSS e Javascript assim podendo obter o conhecimento de como realizar este tipo de funcionalidades para um sistema web
 
-🔗 **[Acesse o site aqui](https://clone-da-netflix-beta.vercel.app/)**
+🔗 **[Acesse o site aqui](https://projet-desboard.vercel.app/)**
 
 ---
 
